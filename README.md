@@ -99,7 +99,7 @@
 
 ---
 
-### Competitive programming & data science stats
+### Competitive programming stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/minus69to?theme=dark&font=Karma&ext=heatmap" />
@@ -107,10 +107,6 @@
 
 <p align="center">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=minus69to&theme=dark&force_username=true&border_color=404040" />
-</p>
-
-<p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/souvikmandol?theme=dark" />
 </p>
 
 ---
