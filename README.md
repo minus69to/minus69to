@@ -86,8 +86,7 @@
 | [Side-Channel Attack](https://github.com/minus69to/Side-Channel-Attack) | Python, Flask, PyTorch, Selenium | Website fingerprinting via CPU cache timing + 1D CNN classifier |
 | [Art Gallery Management](https://github.com/minus69to/CSE-216-Project) | React, Node.js, Oracle | Full-stack art gallery with buying, selling, and review system |
 | [Movie Database](https://github.com/minus69to/L1-T2-Project) | Java, JavaFX | Client-server movie database with search and management UI |
-| [LeetCode Top 150](https://github.com/minus69to/LeetCode-Top-Interview-150) | C++ | Solutions to LeetCode's Top Interview 150 problem set |
-| [Coursera DL Specialization](https://github.com/minus69to/Coursera-Deep-Learning-Specialization) | Python, Jupyter | Assignments from Andrew Ng's Deep Learning Specialization |
+| [Typing Tom](https://github.com/Sadatul/Type-and-Climb) | C, iGraphics | Typing game where players type letters and sentences to overcome obstacles |
 
 ---
 
