@@ -10,6 +10,8 @@
   <a href="https://linkedin.com/in/souvikmandol"><img src="https://img.shields.io/badge/-souvikmandol-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/minus69to"><img src="https://img.shields.io/badge/-minus69to-181717?style=flat&logo=github&logoColor=white"/></a>
   <a href="https://leetcode.com/u/minus69to/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
+  <a href="https://codeforces.com/profile/minus69to"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/souvikmandol"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>
 </p>
 
 ---
@@ -73,6 +75,18 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=minus69to&theme=dark&hide_border=true"/>
+</p>
+
+---
+
+### Competitive programming stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/minus69to?theme=dark&font=Karma&ext=heatmap" />
+</p>
+
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=minus69to&theme=dark&force_username=true&border_color=404040" />
 </p>
 
 ---
